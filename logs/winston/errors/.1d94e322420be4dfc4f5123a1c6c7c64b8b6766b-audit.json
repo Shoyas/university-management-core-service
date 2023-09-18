@@ -1,0 +1,215 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "F:\\PHero Level-2\\project-university-management-system\\university-management-core-service\\logs\\winston\\errors\\.1d94e322420be4dfc4f5123a1c6c7c64b8b6766b-audit.json",
+    "files": [
+        {
+            "date": 1693885421738,
+            "name": "F:\\PHero Level-2\\project-university-management-system\\university-management-core-service\\logs\\winston\\errors\\phu-2023-05-09-09-error.log",
+            "hash": "742ece2e1e4caf63aaf6b961103e7da17479a4c05160478f0ab45bdfd22fd022"
+        },
+        {
+            "date": 1694255321347,
+            "name": "F:\\PHero Level-2\\project-university-management-system\\university-management-core-service\\logs\\winston\\errors\\phu-2023-09-09-16-error.log",
+            "hash": "cc9646d707d30718de211d30aaf59645e620b284d40fbcbdad83541b8a9e2fb8"
+        },
+        {
+            "date": 1694260982106,
+            "name": "F:\\PHero Level-2\\project-university-management-system\\university-management-core-service\\logs\\winston\\errors\\phu-2023-09-09-18-error.log",
+            "hash": "24cf36e80ce655020f7c004227b881a711e7612f54955e6862d2c9c6806fa585"
+        },
+        {
+            "date": 1694313905783,
+            "name": "F:\\PHero Level-2\\project-university-management-system\\university-management-core-service\\logs\\winston\\errors\\phu-2023-10-09-08-error.log",
+            "hash": "b3c859e99e61e22f0a027775c1f5bf37bc0ddc52e10452adac8b9be0fe6400c2"
+        },
+        {
+            "date": 1694314963925,
+            "name": "F:\\PHero Level-2\\project-university-management-system\\university-management-core-service\\logs\\winston\\errors\\phu-2023-10-09-09-error.log",
+            "hash": "f34fd481a55b455df4112fa4dd9a6b59b04ad81ae103e0e9837e9810fbc37f6c"
+        },
+        {
+            "date": 1694355448205,
+            "name": "F:\\PHero Level-2\\project-university-management-system\\university-management-core-service\\logs\\winston\\errors\\phu-2023-10-09-20-error.log",
+            "hash": "8272c2ca8a9fa2b7cadcf54b04290d0dacf34aba098363fde1d18e04f51dd85b"
+        },
+        {
+            "date": 1694394821579,
+            "name": "F:\\PHero Level-2\\project-university-management-system\\university-management-core-service\\logs\\winston\\errors\\phu-2023-11-09-07-error.log",
+            "hash": "93c04912a399a568e1a54c86d9bb06d53c5506250f399096eda37dcb325e6c00"
+        },
+        {
+            "date": 1694401327939,
+            "name": "F:\\PHero Level-2\\project-university-management-system\\university-management-core-service\\logs\\winston\\errors\\phu-2023-11-09-09-error.log",
+            "hash": "b140b049e4e38d35fb5c0bfbedc97b91a17cd2d07d1a50bbd57559e82d7be71e"
+        },
+        {
+            "date": 1694405690665,
+            "name": "F:\\PHero Level-2\\project-university-management-system\\university-management-core-service\\logs\\winston\\errors\\phu-2023-11-09-10-error.log",
+            "hash": "1a8564dcd8aaca4a538c7a69bdd0e0c32fc30a9e83c59c73a0cb9cc906f90c07"
+        },
+        {
+            "date": 1694408692698,
+            "name": "F:\\PHero Level-2\\project-university-management-system\\university-management-core-service\\logs\\winston\\errors\\phu-2023-11-09-11-error.log",
+            "hash": "cb2dcfca5fd717f28fa3dde7157eea4e113e1f15249676b250e31f82938d3007"
+        },
+        {
+            "date": 1694420268313,
+            "name": "F:\\PHero Level-2\\project-university-management-system\\university-management-core-service\\logs\\winston\\errors\\phu-2023-11-09-14-error.log",
+            "hash": "124d56a106855a584e42461077035ef14cdbfb208e7e8d2c561006792178c133"
+        },
+        {
+            "date": 1694424910786,
+            "name": "F:\\PHero Level-2\\project-university-management-system\\university-management-core-service\\logs\\winston\\errors\\phu-2023-11-09-15-error.log",
+            "hash": "5a4851756faa76291356ab442d7ab40de77d0e8e0be6e5de62c7e57314567f2a"
+        },
+        {
+            "date": 1694426607569,
+            "name": "F:\\PHero Level-2\\project-university-management-system\\university-management-core-service\\logs\\winston\\errors\\phu-2023-11-09-16-error.log",
+            "hash": "f63e1196976b0a4ee9085d25449dab10b4049bbca270c5a15ea6874f224a019f"
+        },
+        {
+            "date": 1694445068428,
+            "name": "F:\\PHero Level-2\\project-university-management-system\\university-management-core-service\\logs\\winston\\errors\\phu-2023-11-09-21-error.log",
+            "hash": "372ecf9272f9552b590868ade170d466996a77f3c757297495aa5523d8382cba"
+        },
+        {
+            "date": 1694501297674,
+            "name": "F:\\PHero Level-2\\project-university-management-system\\university-management-core-service\\logs\\winston\\errors\\phu-2023-12-09-12-error.log",
+            "hash": "2228c4afd97d739c04e3340f4d51134adc91d1f117539f7abf7289c3167eabbe"
+        },
+        {
+            "date": 1694502287110,
+            "name": "F:\\PHero Level-2\\project-university-management-system\\university-management-core-service\\logs\\winston\\errors\\phu-2023-12-09-13-error.log",
+            "hash": "12be4449e9eff8e165f0aaaab342c5fd54e20971ff13de23fc99ecd3cab6b539"
+        },
+        {
+            "date": 1694506330599,
+            "name": "F:\\PHero Level-2\\project-university-management-system\\university-management-core-service\\logs\\winston\\errors\\phu-2023-12-09-14-error.log",
+            "hash": "319549c4f004e39a2eb3b8703388d2e1c6b217ea37b104644ab279461447d470"
+        },
+        {
+            "date": 1694509300420,
+            "name": "F:\\PHero Level-2\\project-university-management-system\\university-management-core-service\\logs\\winston\\errors\\phu-2023-12-09-15-error.log",
+            "hash": "5074e5dff1f1a062b2c7ca2e93b47cf9b77bc391fabc1dc251990f9d70b58e13"
+        },
+        {
+            "date": 1694512840316,
+            "name": "F:\\PHero Level-2\\project-university-management-system\\university-management-core-service\\logs\\winston\\errors\\phu-2023-12-09-16-error.log",
+            "hash": "f12dd1cdf176bc18caf30087017415ae702ffddeafa6ccc655b7790edc9efef0"
+        },
+        {
+            "date": 1694529917983,
+            "name": "F:\\PHero Level-2\\project-university-management-system\\university-management-core-service\\logs\\winston\\errors\\phu-2023-12-09-20-error.log",
+            "hash": "2407de099eaa1ee49d03c4c7e697bb7202f18847386aab04956482bbd04942fe"
+        },
+        {
+            "date": 1694538274604,
+            "name": "F:\\PHero Level-2\\project-university-management-system\\university-management-core-service\\logs\\winston\\errors\\phu-2023-12-09-23-error.log",
+            "hash": "d69d82e1eb56d0b5552cf6123d44fdd4830714dc5f2802811a890e9819f47b0e"
+        },
+        {
+            "date": 1694583039584,
+            "name": "F:\\PHero Level-2\\project-university-management-system\\university-management-core-service\\logs\\winston\\errors\\phu-2023-13-09-11-error.log",
+            "hash": "6decd6d9026d9547d82d09b513cd4adba72eb973922a56fbd04fa8fbe4664056"
+        },
+        {
+            "date": 1694656784078,
+            "name": "F:\\PHero Level-2\\project-university-management-system\\university-management-core-service\\logs\\winston\\errors\\phu-2023-14-09-07-error.log",
+            "hash": "6b054326431f39d6fdd922c243878d2f674bc33ce208f90f5da3658dffaf809d"
+        },
+        {
+            "date": 1694657563667,
+            "name": "F:\\PHero Level-2\\project-university-management-system\\university-management-core-service\\logs\\winston\\errors\\phu-2023-14-09-08-error.log",
+            "hash": "55bc70cf4873b3c5b1cd9c1e1274027d130047134b0adad3083009554da39896"
+        },
+        {
+            "date": 1694681751084,
+            "name": "F:\\PHero Level-2\\project-university-management-system\\university-management-core-service\\logs\\winston\\errors\\phu-2023-14-09-14-error.log",
+            "hash": "4189ae3a4dd730a4ff068e0e0ed5274388ecaa8ce560d65b54f3d41a7b3f4eec"
+        },
+        {
+            "date": 1694686470530,
+            "name": "F:\\PHero Level-2\\project-university-management-system\\university-management-core-service\\logs\\winston\\errors\\phu-2023-14-09-16-error.log",
+            "hash": "b007871d878277b166a3d591bd86df99f1f89837db2ed4e356e164ea13edd859"
+        },
+        {
+            "date": 1694695731923,
+            "name": "F:\\PHero Level-2\\project-university-management-system\\university-management-core-service\\logs\\winston\\errors\\phu-2023-14-09-18-error.log",
+            "hash": "2d76fbab51e21518678ec052af7af40ac0ec232df1d1391d0a653840ef853b62"
+        },
+        {
+            "date": 1694753382418,
+            "name": "F:\\PHero Level-2\\project-university-management-system\\university-management-core-service\\logs\\winston\\errors\\phu-2023-15-09-10-error.log",
+            "hash": "82868b3e7812bca12b2d0b05d9abdc43c630ad9f0ebcc1c71cdaa027da3aa1d4"
+        },
+        {
+            "date": 1694754056000,
+            "name": "F:\\PHero Level-2\\project-university-management-system\\university-management-core-service\\logs\\winston\\errors\\phu-2023-15-09-11-error.log",
+            "hash": "f116d21c197bb253f510203d51241e2a73ffeba0a7167b72bdc3058db886d114"
+        },
+        {
+            "date": 1694794933640,
+            "name": "F:\\PHero Level-2\\project-university-management-system\\university-management-core-service\\logs\\winston\\errors\\phu-2023-15-09-22-error.log",
+            "hash": "5d889d2301512011cacbac20c4edc7c56b46604b4edd45ae35971d7be901bb14"
+        },
+        {
+            "date": 1694826053702,
+            "name": "F:\\PHero Level-2\\project-university-management-system\\university-management-core-service\\logs\\winston\\errors\\phu-2023-16-09-07-error.log",
+            "hash": "25d52e12f9f555bc800523065eb00cc74a386c49c80646cf50e935f148ac5a36"
+        },
+        {
+            "date": 1694837423225,
+            "name": "F:\\PHero Level-2\\project-university-management-system\\university-management-core-service\\logs\\winston\\errors\\phu-2023-16-09-10-error.log",
+            "hash": "7c0a609b5ea14bd64452e4d9daed111b444337d50ec772da843cad3a35a034cf"
+        },
+        {
+            "date": 1694845540283,
+            "name": "F:\\PHero Level-2\\project-university-management-system\\university-management-core-service\\logs\\winston\\errors\\phu-2023-16-09-12-error.log",
+            "hash": "4a3533c97b1ca652721b925e2f4f25fac8127a057b30f728959c8f7f9974f419"
+        },
+        {
+            "date": 1694848342833,
+            "name": "F:\\PHero Level-2\\project-university-management-system\\university-management-core-service\\logs\\winston\\errors\\phu-2023-16-09-13-error.log",
+            "hash": "0d45687f4eb41d34a5a6eab926a993183926ffbdb0d1d9de4fa0d6c8f2a9d2b5"
+        },
+        {
+            "date": 1694881760803,
+            "name": "F:\\PHero Level-2\\project-university-management-system\\university-management-core-service\\logs\\winston\\errors\\phu-2023-16-09-22-error.log",
+            "hash": "fe28e3f7dcd8759da66969f531dee9337760d7d853aa253da0582f14ae2a74da"
+        },
+        {
+            "date": 1694928217002,
+            "name": "F:\\PHero Level-2\\project-university-management-system\\university-management-core-service\\logs\\winston\\errors\\phu-2023-17-09-11-error.log",
+            "hash": "3d6d6e1e8e3a64975a1f10792c251db1fde09a5d1ac030cee509efa7a1341d20"
+        },
+        {
+            "date": 1694930739415,
+            "name": "F:\\PHero Level-2\\project-university-management-system\\university-management-core-service\\logs\\winston\\errors\\phu-2023-17-09-12-error.log",
+            "hash": "f506a4c9bed60a1eb58710a64af5c8eae88ddc17713e670015f3a5940f026463"
+        },
+        {
+            "date": 1694934169258,
+            "name": "F:\\PHero Level-2\\project-university-management-system\\university-management-core-service\\logs\\winston\\errors\\phu-2023-17-09-13-error.log",
+            "hash": "b7e89464121a10a5e39acf344a699a3eccd093c38f36cb0b125f52642ae4be64"
+        },
+        {
+            "date": 1694940742990,
+            "name": "F:\\PHero Level-2\\project-university-management-system\\university-management-core-service\\logs\\winston\\errors\\phu-2023-17-09-14-error.log",
+            "hash": "b5222673dfc557479afbdd02104c3a764a293f9b1f1a6724d85a54ee873ed01e"
+        },
+        {
+            "date": 1695030746520,
+            "name": "F:\\PHero Level-2\\project-university-management-system\\university-management-core-service\\logs\\winston\\errors\\phu-2023-18-09-15-error.log",
+            "hash": "a49ab049007f008defd068ef2b5e927e1be798d7a33edf37355c16c1111648ef"
+        },
+        {
+            "date": 1695031729530,
+            "name": "F:\\PHero Level-2\\project-university-management-system\\university-management-core-service\\logs\\winston\\errors\\phu-2023-18-09-16-error.log",
+            "hash": "c216f8e36ff97a4ed67f2cd52aa1aa092ffcd482dd1dc0df1ffec760bea8e140"
+        }
+    ],
+    "hashType": "sha256"
+}
